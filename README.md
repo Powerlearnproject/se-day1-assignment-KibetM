@@ -5,7 +5,8 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 **Explain what software engineering is and discuss its importance in the technology industry.**
-Software engineering is the systematic application of engineering principles to the design, development, maintenance, testing, and evaluation of software and software systems. 
+Software engineering is the systematic application of engineering principles to the design, development, maintenance, testing, and evaluation of software and software systems.
+Importance in technology:
 1. Ensures Software Quality
 Software engineering helps ensure that software is of high quality, meaning it is functional, reliable, secure, and user-friendly. Through practices like code reviews, automated testing, and continuous integration, software engineers can identify bugs and ensure the software performs as expected under different conditions.
 
@@ -64,7 +65,7 @@ System Testing validates that the entire system meets the specified requirements
 Acceptance Testing ensures that the software is aligned with user needs and business goals, providing stakeholders with confidence before the software is released.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+**#Part 2: Introduction to AI and Prompt Engineering**
 
 
 **Define prompt engineering and discuss its importance in interacting with AI models.**
